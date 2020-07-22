@@ -5,12 +5,12 @@ This can be used to track online status of a contact , visualize online history,
 Steps to follow.
 1. Open whatsapp web and open console in the browser. (Eg : For chrome browser use the shortcut Option + ⌘ + J (on macOS), or Shift + CTRL + J (on Windows/Linux).)
 2. In the console, paste the conetents of stalk.js and hit enter.
-3. A popup will come up asking the names of contact you want to stalk. (You can eneter multiple names separated by comma(,). Make sure that names are typed exactly same way the contact is saved(case sensitive). The contact to stalk should not be presnt very below in chat, can pin the person to top if chat has gone down.)![GitHub Logo](/images/contactnames.png)
-4. This would start checking online status of these contacts and store online history of the persons being stalked. ![GitHub Logo](/images/sample_data.png)
-5. Click on GetStalkCSV in the UI to download the colleted data.![GitHub Logo](/images/download.png)
+3. A popup will come up asking the names of contact you want to stalk. (You can eneter multiple names separated by comma(,). Make sure that names are typed exactly same way the contact is saved(case sensitive). The contact to stalk should not be presnt very below in chat, can pin the person to top if chat has gone down.)![GitHub Logo](/images/contactnames.png){:height="700px" width="400px"}
+4. This would start checking online status of these contacts and store online history of the persons being stalked. ![GitHub Logo](/images/sample_data.png){:height="700px" width="400px"}
+5. Click on GetStalkCSV in the UI to download the colleted data.![GitHub Logo](/images/download.png){:height="700px" width="400px"}
 6. Update contents of test.csv with the downloaded data.
-7. Run plot.py (using command python plot.py) to see online status of the target.![GitHub Logo](/images/onlinegraph.png)
+7. Run plot.py (using command python plot.py) to see online status of the target.![GitHub Logo](/images/onlinegraph.png){:height="700px" width="400px"}
 
 
-Happy Stalking !! Follow if you like it .
-LinkedIn: https://www.linkedin.com/in/suryakant-pandey/
+Happy Stalking !! 
+Contributor: https://www.linkedin.com/in/suryakant-pandey/
