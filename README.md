@@ -10,7 +10,7 @@ This can be used to track online status of a contact , visualize online history,
 - This would start checking online status of these contacts and store online history of the persons being stalked. [Sample](/images/sample_data.png)
 - Click on GetStalkCSV in the UI to download the colleted data. [Sample](/images/download.png)
 - Update contents of test.csv with the downloaded data.
-- Run [plot.py](src/plot.js) (using command `python plot.py`) to see online status of the target. ![GitHub Logo](/images/onlinegraph.png)
+- Run [plot.py](src/plot.py) (using command `python plot.py`) to see online status of the target. ![GitHub Logo](/images/onlinegraph.png)
 
 Happy Stalking !! 
 
