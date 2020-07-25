@@ -13,8 +13,9 @@ This can be used to track online status of a contact , visualize online history,
 - Run [plot.py](src/plot.py) (using command `python plot.py`) to see online status of the target. ![GitHub Logo](/images/onlinegraph.png)
 
 Happy Stalking !! 
+Disclaimer: Use at your own discretion.
 
 ## Credits
 - Contributor: https://www.linkedin.com/in/suryakant-pandey/
 
--Medium : https://medium.com/@pd.skant/stalk-someone-on-whatsapp-educational-purpose-only-370c91f09eb8?sk=d5013cc89c3625bc3303bfdaefbea4ce
+- Medium : https://medium.com/@pd.skant/stalk-someone-on-whatsapp-educational-purpose-only-370c91f09eb8?sk=d5013cc89c3625bc3303bfdaefbea4ce
