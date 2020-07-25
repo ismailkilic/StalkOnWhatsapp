@@ -16,3 +16,5 @@ Happy Stalking !!
 
 ## Credits
 - Contributor: https://www.linkedin.com/in/suryakant-pandey/
+
+-Medium : https://medium.com/@pd.skant/stalk-someone-on-whatsapp-educational-purpose-only-370c91f09eb8?sk=d5013cc89c3625bc3303bfdaefbea4ce
